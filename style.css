@@ -1,0 +1,19 @@
+img {
+    width: 30%;
+    float: left;
+    margin: 1.66%;
+}
+
+h1 {
+    color: rgb(71, 67, 67);
+    margin: auto;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-bottom: 3px solid rgb(85, 81, 81);
+    width: 30%;
+    text-transform: uppercase;
+}
+
+body {
+    background-color: rgba(73, 64, 64, 0.158);
+}
